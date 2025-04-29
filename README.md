@@ -4,9 +4,9 @@ A clean and responsive **Portfolio Website** built using **HTML**, **CSS**, **Ja
 
 ## 🌐 Live Demo
 
-[🔗 View Live](https://your-portfolio-demo-link.com)
+[🔗 View Live](https://my-portfolio-zeta-ashy.vercel.app/)
 
-## 📸 Screenshots
+## 📸 Screenshot
 
 ![Portfolio Screenshot](assets/ss.jpg)
 
@@ -36,7 +36,7 @@ A clean and responsive **Portfolio Website** built using **HTML**, **CSS**, **Ja
 
 ## 📞 Contact
 
-- 📧 Email: tirthnagbhushan@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/nagbhushan-tirth-887865229/)
-- 🐱 GitHub: [github.com/your-username](https://github.com/nt56)
+- 📧 Email: tirthnagbhushan56@gmail.com
+- 🔗 LinkedIn: [linkedin](https://www.linkedin.com/in/nagbhushan-tirth-887865229/)
+- 🐱 GitHub: [github](https://github.com/nt56)
 - 📍 Location: Pune, Maharashtra
